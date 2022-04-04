@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-card-generator/static/css/main.980f33ba.css",
+    "main.js": "/random-card-generator/static/js/main.31af3b46.js",
+    "index.html": "/random-card-generator/index.html",
+    "main.980f33ba.css.map": "/random-card-generator/static/css/main.980f33ba.css.map",
+    "main.31af3b46.js.map": "/random-card-generator/static/js/main.31af3b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980f33ba.css",
+    "static/js/main.31af3b46.js"
+  ]
+}
