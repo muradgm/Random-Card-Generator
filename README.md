@@ -7,7 +7,7 @@ A small React exercise to create a random card, with every refresh the card cont
 
 ## Demo
 
-![App gif](./sample.gif "Title Text - gif")
+![App webm](./random-card.webm 'project demo - webm')
 
 
 ## Lessons Learned
