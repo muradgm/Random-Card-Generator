@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/random-card-generator/static/css/main.980f33ba.css",
-    "main.js": "/random-card-generator/static/js/main.31af3b46.js",
+    "main.css": "/random-card-generator/static/css/main.0d745804.css",
+    "main.js": "/random-card-generator/static/js/main.571875dd.js",
+    "static/media/avatar10.png": "/random-card-generator/static/media/avatar10.3d708076fdb12f5e5e10.png",
+    "static/media/avatar12.png": "/random-card-generator/static/media/avatar12.d8ba446249c31d8a8793.png",
+    "static/media/avatar2.png": "/random-card-generator/static/media/avatar2.7cc9b342f93efa2b7941.png",
+    "static/media/avatar14.png": "/random-card-generator/static/media/avatar14.af8de7aa14d90c23049b.png",
+    "static/media/avatar11.png": "/random-card-generator/static/media/avatar11.796f09ffd5e6d7b6c183.png",
+    "static/media/avatar8.png": "/random-card-generator/static/media/avatar8.367129bf7c78e1b1f0ae.png",
+    "static/media/avatar6.png": "/random-card-generator/static/media/avatar6.eeb2f592e61967a38196.png",
+    "static/media/avatar9.png": "/random-card-generator/static/media/avatar9.a728555364f911801ced.png",
+    "static/media/avatar4.png": "/random-card-generator/static/media/avatar4.fdd673a900ed50e3482d.png",
+    "static/media/avatar1.png": "/random-card-generator/static/media/avatar1.d9a6627ea4ec72efe500.png",
+    "static/media/avatar13.png": "/random-card-generator/static/media/avatar13.708394ee192828aaf150.png",
+    "static/media/avatar3.png": "/random-card-generator/static/media/avatar3.74596b5a3f5ce1b93296.png",
+    "static/media/avatar5.png": "/random-card-generator/static/media/avatar5.4c47f9a7a040db684cd3.png",
+    "static/media/avatar7.png": "/random-card-generator/static/media/avatar7.790a477fc640a1c49421.png",
     "index.html": "/random-card-generator/index.html",
-    "main.980f33ba.css.map": "/random-card-generator/static/css/main.980f33ba.css.map",
-    "main.31af3b46.js.map": "/random-card-generator/static/js/main.31af3b46.js.map"
+    "main.0d745804.css.map": "/random-card-generator/static/css/main.0d745804.css.map",
+    "main.571875dd.js.map": "/random-card-generator/static/js/main.571875dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.980f33ba.css",
-    "static/js/main.31af3b46.js"
+    "static/css/main.0d745804.css",
+    "static/js/main.571875dd.js"
   ]
 }
